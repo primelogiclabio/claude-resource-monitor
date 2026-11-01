@@ -118,7 +118,7 @@ One line installs it, in either of two places:
   ```
 
 Both add the `claude-tools` marketplace first if you haven't added it yet.
-The [repo README](../../README.md#installing) has the full steps.
+The [repo README](https://github.com/primelogiclabio/claude-tools#installing) has the full steps.
 
 ## Developing
 
